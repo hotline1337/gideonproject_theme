@@ -3,15 +3,16 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 @import url(https://satoru8.github.io/Addons/FriendsList.css);
 @import url('https://satoru8.github.io/Addons/FullScreenStatusPicker/fullScreenStatusPicker.css');
-/*@import url('https://satoru8.github.io/Addons/GuildBorders/guildBorders.css');*/
+@import url('https://satoru8.github.io/Addons/GuildBorders/guildBorders.css');
+@import url("https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css");
 :root{
 	--round: 5px ;	/* Roundness for guilds & borders */
 	--borderStyle: 0px 2px ;	/* First number is blur/glow. Second number is thickness/border. */
 	/* Example: 5px 0px  for glow.  0px 2px for border */
     --unread: red ;			/* Unread notification colour */
-    /*--gSelect: magenta ;	/* Selected guild colour */
-    /*--gHover: #ef095f ;		/* Hovered guild colour */
-    /*--gSize: 40px;			  /* This should match your guild icon size. Otherwise leave it default. */
+    --gSelect: magenta ;	/* Selected guild colour */
+    --gHover: #ef095f ;		/* Hovered guild colour */
+    --gSize: 40px;			  /* This should match your guild icon size. Otherwise leave it default. */
 	--sPickerOnlineBGColour: #43b581;
     --sPickerIdleBGColour: #faa61a;
     --sPickerDNDBGColour: #f04747;
