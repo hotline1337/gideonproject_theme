@@ -3,7 +3,7 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 @import url(https://satoru8.github.io/Addons/FriendsList.css);
 @import url('https://satoru8.github.io/Addons/FullScreenStatusPicker/fullScreenStatusPicker.css');
-@import url('https://satoru8.github.io/Addons/GuildBorders/guildBorders.css');
+/*@import url('https://satoru8.github.io/Addons/GuildBorders/guildBorders.css');*/
 :root{
 	--round: 5px ;	/* Roundness for guilds & borders */
 	--borderStyle: 0px 2px ;	/* First number is blur/glow. Second number is thickness/border. */
