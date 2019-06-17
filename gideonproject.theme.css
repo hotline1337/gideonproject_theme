@@ -1229,3 +1229,58 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after, .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {
 	border-color: var(--important-notification-l);
 }
+#app-mount .da-container .da-message .da-markup pre {
+    overflow: hidden;
+    position: relative;
+    transition: padding-top 0.2s linear;
+}
+
+#app-mount .da-container .da-message .da-markup pre .hljs::before {
+    content: attr(class);
+    position: absolute;
+    top: 0.1em;
+    right: -1em;
+    height: 1.25em;
+    overflow: hidden;
+    text-indent: -74.25ch;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #eee;
+    border-radius: 5px 0 0 5px;
+    width: 9em;
+}
+
+#app-mount .da-container .da-message .da-markup pre .hljs[class$=hljs]::before {
+    content: none;
+}
+
+#app-mount .da-container .da-message .da-markup pre:hover .hljs::before {
+    animation: slide-in 0.2s linear;
+}
+
+#app-mount .da-container .da-message .da-markup pre:not(:hover) .hljs::before {
+    right: -9em;
+    animation: slide-out 0.2s ease-out;
+}
+
+@keyframes slide-in {
+    0% {
+        right: -9em;
+        opacity: 0;
+    }
+    100% {
+        right: -1em;
+        opacity: 1;
+    }
+}
+
+@keyframes slide-out {
+    0% {
+        right: -1em;
+        opacity: 1;
+    }
+    100% {
+        right: -9em;
+        opacity: 0;
+    }
+}
