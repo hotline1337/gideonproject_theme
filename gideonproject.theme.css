@@ -502,6 +502,12 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .theme-light .footer-30ewN8 {
 	background-color: #2b2b2d;
 }
+.theme-dark .icon-1_QxNX, .theme-light .icon-1_QxNX {
+	color: #fdfeff;
+}
+.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU {
+	background-color: #202020;
+}
 .homeIcon-tEMBK1 {
   height: 32px;
   width: 32px;
