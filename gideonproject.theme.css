@@ -503,6 +503,18 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 	font-size: 11px;
 	padding: 5px 15px 5px 15px!important;
 }
+.theme-dark .cardPrimary-1Hv-to {
+	background: rgba(33, 33, 33, 0.6);
+}
+.theme-dark .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
+	background-color: #262727;
+}
+.theme-dark .card-FDVird:before {
+	background-color: #272829;
+}
+.theme-dark .searchBox-3Y2Vi7 {
+	background-color: #3b3d40;
+}
 .unread-1xRYoj {
 	background-color: rgba(34, 35, 37, 0.9);
 }
