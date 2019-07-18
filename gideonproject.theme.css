@@ -8,14 +8,14 @@
 	--borderStyle: 0px 2px ;	/* First number is blur/glow. Second number is thickness/border. */
 	/* Example: 5px 0px  for glow.  0px 2px for border */
     --unread: red ;			/* Unread notification colour */
-	--sPickerOnlineBGColour: #43b581;
+	/*--sPickerOnlineBGColour: #43b581;
     --sPickerIdleBGColour: #faa61a;
     --sPickerDNDBGColour: #f04747;
     --sPickerInviBGColour: #1a36fa;
     --sPickerOnlineBGIcon: url('https://satoru8.github.io/Addons/FullScreenStatusPicker/Assets/online.svg');
     --sPickerIdleBGIcon: url('https://satoru8.github.io/Addons/FullScreenStatusPicker/Assets/idle.svg');
     --sPickerDNDBGIcon:url('https://satoru8.github.io/Addons/FullScreenStatusPicker/Assets/dnd.svg');
-    --sPickerInviBGIcon: url('https://satoru8.github.io/Addons/FullScreenStatusPicker/Assets/invis.svg');
+    --sPickerInviBGIcon: url('https://satoru8.github.io/Addons/FullScreenStatusPicker/Assets/invis.svg');*/
 	--mc: rgba(0, 185, 255, 0.8); /*Main Color*/
     --sc: rgba(0, 185, 255, 0.8); /*Accent Color*/
     --online: #43b592;
