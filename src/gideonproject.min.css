@@ -491,8 +491,32 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .gameLibrary-TTDw4Y {
 	background:var(--chat-color)!important;
 }
+.theme-dark .notDetected-33MY4s {
+	background-color: #313233;
+}
+.bda-dark .theme-dark .action-1lSjCi, .bda-dark .theme-light .action-1lSjCi {
+	background: #353535;
+}
+.theme-dark .slideBody-2nMrnU, .theme-light .slideBody-2nMrnU {
+	background: #1a1a1a;
+}
+.bda-dark .theme-light .slide-2pHaq5 {
+	background: #1d1d1d;
+}
+.bda-dark .regionSelectModal-12e-57 {
+	background: #262627;
+}
+.downloadButton-23tKQp:hover {
+	color: #fff;
+}
 .header-39GIC8 {
 	background-color: #191919;
+}
+.theme-dark .keybindShortcut-1BD6Z1 span {
+	background-color: #3c3d3e;
+}
+.theme-dark .passthroughSelected-1Eq0Kl {
+	background: #3c3d3e;
 }
 .modal-3v8ziU {
 	background:var(--chat-color)!important;
