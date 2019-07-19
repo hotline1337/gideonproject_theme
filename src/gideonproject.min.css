@@ -524,6 +524,14 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 	font-size: 11px;
 	padding: 5px 15px 5px 15px!important;
 }
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+	color: var(--text-color)!important;
+	background: linear-gradient(to bottom,#232323 0,#191919 100%)!important;
+	border-radius: 0!important;
+	box-shadow: inset 0 0 0 1px #0a0a0a, inset 0 0 0 2px #323232;
+	font-size: 11px;
+	padding: 5px 15px 5px 15px!important;
+}
 .theme-dark .cardPrimary-1Hv-to {
 	background: rgba(33, 33, 33, 0.6);
 }
