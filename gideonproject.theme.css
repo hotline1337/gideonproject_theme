@@ -541,6 +541,14 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU {
 	background-color: #202020;
 }
+.lookFilled-1Gx00P.colorRed-1TFJan {
+	color: var(--text-color)!important;
+	background: linear-gradient(to bottom,#232323 0,#191919 100%)!important;
+	border-radius: 0!important;
+	box-shadow: inset 0 0 0 1px #0a0a0a, inset 0 0 0 2px #323232;
+	font-size: 11px;
+	padding: 5px 15px 5px 15px!important;
+}
 .channelNotices-41mJbj .channelNotice-1-XFjC.quickswitcher-35bYg4 {
 	background: #202020 url(/assets/8fdb69b….svg) no-repeat center 35px;
 	padding: 15px 20px 20px;
