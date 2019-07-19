@@ -472,6 +472,10 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .customScroller-26gWhv {
 	background:var(--chat-color)!important;
 }
+.theme-dark .member-3W1lQa:hover {
+	background-color: #1d1d1d;
+	color: #fff;
+}
 .container-1giJp5 {
 	padding: 5px;
 	border-bottom: 1px solid #332d2f;
