@@ -584,6 +584,9 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .total-3tKGEB {
 	background-color: #1d1d1f;
 }
+.theme-dark .children-19S4PO:after {
+	background: var(--chat-color)!important;
+}
 .total-3tKGEB:after {
 	border-right-color: #1d1d1f;
 }
