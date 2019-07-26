@@ -653,6 +653,15 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 	font-size: 11px;
 	padding: 5px 15px 5px 15px!important;
 }
+.expandedFolderBackground-2sPsd- {
+	left: 4px;
+}
+.theme-dark .expandedFolderBackground-2sPsd- {
+	background-color: #443f4133;
+}
+.theme-dark .expandedFolderBackground-2sPsd-.hover-2ji-A7, .theme-dark .folder-21wGz3 {
+	background-color: #443f4100;
+}
 .channelNotices-41mJbj .channelNotice-1-XFjC.quickswitcher-35bYg4 {
 	background: #202020 url(/assets/8fdb69b….svg) no-repeat center 35px;
 	padding: 15px 20px 20px;
