@@ -657,9 +657,15 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 	left: 4px;
 }
 .theme-dark .expandedFolderBackground-2sPsd- {
+	background-color: #2d2f3500;
+}
+.theme-dark .expandedFolderBackground-2sPsd- {
 	background-color: #443f4133;
 }
-.theme-dark .expandedFolderBackground-2sPsd-.hover-2ji-A7, .theme-dark .folder-21wGz3 {
+.theme-dark .expandedFolderBackground-2sPsd-.hover-2ji-A7 {
+	background-color: #443f4100;
+}
+.theme-dark .folder-21wGz3 {
 	background-color: #443f4100;
 }
 .channelNotices-41mJbj .channelNotice-1-XFjC.quickswitcher-35bYg4 {
