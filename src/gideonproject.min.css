@@ -1,3 +1,17 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                                                                                     *
+ *         .__    .___                                          __               __    *
+ *    ____ |__| __| _/____  ____   ____ _____________  ____    |__| ____   _____/  |_  *
+ *   / ___\|  |/ __ |/ __ \/  _ \ /    \\____ \_  __ \/  _ \   |  |/ __ \_/ ___\   __\ *
+ *  / /_/  >  / /_/ \  ___(  <_> )   |  \  |_> >  | \(  <_> )  |  \  ___/\  \___|  |   *
+ *  \___  /|__\____ |\___  >____/|___|  /   __/|__|   \____/\__|  |\___  >\___  >__|   *
+ * /_____/         \/    \/           \/|__|               \______|    \/     \/       *
+ *                                                                                     *
+ *                                                                                     *
+ *                                  gideonproject.                                     *
+ *                       official gideonhack.pw discord theme                          *
+ *                                   By Hotline                                        *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url(https://qwerasd205.github.io/HLJSrecolor.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
@@ -465,6 +479,22 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 }
 .sidebarRegion-VFTUkN {
 	background:var(--chat-color)!important;
+}
+.theme-dark .searchResultsWrap-2DKFzt {
+	background-color: #1d1e1f;
+}
+.theme-dark .searchResult-3pzFAB .searchResultMessage-2VxO12.hit-NLlWXA {
+	border: 2px solid rgba(16, 16, 16, 0.6);
+}
+.theme-dark .searchResult-3pzFAB .hit-NLlWXA {
+	background-color: #313233;
+	box-shadow: 0 0 10px 6px #262627;
+}
+.theme-dark .searchResult-3pzFAB:after {
+	background-image: linear-gradient(180deg,rgba(47,49,54,0),#181819);
+}
+.theme-dark .searchFilter-2ESiM3 {
+	background-color: #343638;
 }
 .contentRegionScroller-26nc1e {
 	background:var(--chat-color)!important;
