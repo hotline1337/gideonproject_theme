@@ -312,7 +312,9 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
     border:solid 1px var(--outline-color)!important;
     border-radius:1px
 }
-
+.theme-dark .isLocalBot-38G0P0 {
+	background-image: linear-gradient(90deg,rgba(47,49,54,.3) 80%,#2a2b2b);
+}
 .userPopout-3XzG_A {
     border-radius: 1px;
     box-shadow: 0 0 0 1px #323232,0 0 0 2px #0a0a0a!important;
