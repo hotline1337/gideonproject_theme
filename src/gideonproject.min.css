@@ -702,6 +702,12 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 }
 .theme-dark .base-gE7OpD span {
 	color: hsla(0, 22%, 88%, 0.8);
+	animation: blinker 1s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
 }
 .channelNotices-41mJbj .channelNotice-1-XFjC.quickswitcher-35bYg4 {
 	background: #202020 url(/assets/8fdb69b….svg) no-repeat center 35px;
