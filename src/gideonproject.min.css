@@ -702,7 +702,7 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 }
 .theme-dark .base-gE7OpD span {
 	color: hsla(0, 22%, 88%, 0.8);
-	animation: blinker 1s linear infinite;
+	animation: blinker 2s linear infinite;
 }
 @keyframes blinker {
   50% {
