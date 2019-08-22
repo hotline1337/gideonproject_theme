@@ -709,6 +709,45 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
     opacity: 0;
   }
 } /* flashing animation */
+.theme-dark .jumpButton-3DTcS_ {
+	background-color: #2a2b2b;
+}
+.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline {
+	background: #2c2c2d;
+}
+.theme-dark .item-1Yvehc:hover {
+	font-weight: bold; /* skeet alike combobox text bolding */
+}
+.bda-dark .emojiPicker-3m1S-j {
+	background-color: #211f1f!important;
+}
+.theme-dark .messageGroupWrapper-o-Zw7G:hover .actionButtons-1sUUug {
+	-webkit-box-shadow: 0 0 6px 4px #36393f00;
+	box-shadow: 0 0 6px 4px #36393f00;
+	background-color: #25262900;
+} /* Jump button gradient background fix */
+.theme-dark .expandedFolderBackground-2sPsd-.hover-2ji_A7, .theme-dark .expandedFolderBackground-2sPsd-.collapsed-1GMuSb {
+	background-color: #40444b00; /* folder bug fix */
+}
+.theme-dark .dragInner-_SHftW {
+	background-color: #2b2c2d;
+}
+.theme-dark .container-3ayLPN {
+	background-color: 1a1a1a;
+}
+.theme-dark .option-96V44q:after {
+	background: linear-gradient(90deg,rgba(54,57,63,0),#1a1a1a 80%);
+}
+.theme-dark .option-96V44q.selected-rZcOL- {
+	background-color: #2e2f2f;
+}
+.theme-dark .option-96V44q.selected-rZcOL-:after {
+	background: linear-gradient(90deg,rgba(35,38,42,0),#2e2f2f 50%);
+}
+.theme-dark .hasMore-3e72_v button {
+	background: #303133;
+	border: 1px solid #000000;
+}
 .channelNotices-41mJbj .channelNotice-1-XFjC.quickswitcher-35bYg4 {
 	background: #202020 url(/assets/8fdb69b….svg) no-repeat center 35px;
 	padding: 15px 20px 20px;
