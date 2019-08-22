@@ -980,6 +980,11 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .theme-dark .headerBar-UHpsPw {
 	background: var(--channels-darker);
 }
+.theme-dark .searchResult-3pzFAB.expanded-v2Szsz .searchResultMessage-2VxO12.hit-NLlWXA {
+	background-color: #272727;
+	border-bottom: 2px solid rgba(29, 30, 31, 0.6);
+	border-top: 2px solid rgba(29, 30, 31, 0.6);
+}
 .theme-dark .container-3gCOGc {
 	background: var(--chat-color)!important;
 }
