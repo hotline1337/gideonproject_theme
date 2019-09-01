@@ -551,6 +551,9 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .activityFeed-1C0EmJ {
 	background:var(--chat-color)!important;
 }
+.theme-dark .contentWrapper-3WC1ID {
+	background: #242425;
+}
 .gameLibrary-TTDw4Y {
 	background:var(--chat-color)!important;
 }
