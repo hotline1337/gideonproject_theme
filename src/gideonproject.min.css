@@ -199,6 +199,14 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
     padding-bottom:10px;
     font-size:9px
 }
+.lookFilled-1Gx00P.colorBrand-3pXr91:not([style*="background-color"]) {
+    color: var(--text-color)!important;
+    background: linear-gradient(to bottom,#232323 0,#191919 100%)!important;
+    border-radius: 0!important;
+    box-shadow: inset 0 0 0 1px #0a0a0a, inset 0 0 0 2px #323232;
+    font-size: 11px;
+    padding: 5px 15px 5px 15px!important;
+}
 .wrapper-1Rf91z .scroller-2TZvBN .container-1ETFDs.selected-nT-gM3:before{
     box-shadow:0 1px 0 0 #303030,-1px 2px 0 0 #000,0 -1px 0 0 #303030,-1px -2px 0 0 #000;
     background:var(--channels-color);
@@ -811,6 +819,12 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
     background:none!important;
     font-size:10px!important;
     padding-left:10px
+}
+.panels-j1Uci_ {
+	background-color: #1a1a1a;
+}
+.container-PNkimc {
+	background: #101010;
 }
 .typing-2GQL18 .ellipsis-19qdx6{
     display:none
