@@ -16,7 +16,6 @@
 @import url(https://qwerasd205.github.io/HLJSrecolor.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 @import url(https://satoru8.github.io/Addons/FriendsList.css);
-@import url("https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css");
 :root{
 	--round: 5px ;	/* Roundness for guilds & borders */
 	--borderStyle: 0px 2px ;	/* First number is blur/glow. Second number is thickness/border. */
@@ -545,6 +544,9 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 }
 .theme-dark .cardPrimaryOutline-29Ujqw {
 	border-color: #ef095f;
+}
+.sidebarRegionScroller-3MXcoP {
+	background: #1a1a1a;
 }
 .theme-dark .accountBtnInner-sj5jLs {
 	background-color: #303031;
