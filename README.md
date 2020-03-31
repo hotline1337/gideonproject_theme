@@ -1,1 +1,1 @@
-# gideonproject theme for discord
+# gideonproject kernel driver for battleye and eac bypass purposes
