@@ -1160,6 +1160,9 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
     background:var(--text-input)!important;
     box-shadow:inset 0 0 0 1px #323232,inset 0 0 0 2px #101010
 }
+.embedFull-2tM8-- {
+	background: #242425;
+}
 .friend-table-suggestions-header{
     padding:20px 30px 16px!important
 }
