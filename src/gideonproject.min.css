@@ -749,8 +749,11 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .emojiItem-14v6tW.emojiItemSelected-1aLkfV {
 	background-color: #28292b;
 }
+.modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX {
+	color: #fff;
+}
 .theme-dark .icon-1_QxNX, .theme-light .icon-1_QxNX {
-	color: #fdfeff;
+	color: #505152;
 }
 .theme-dark .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover {
 	background-color: #262627;
@@ -1168,6 +1171,32 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 }
 .wrapper-3JPufy{
     padding-right:5px
+}
+.channelHeader-3Gd2xq {
+	background-color: #252525;
+}
+.messageContainer-gbhlwo {
+	background-color: #313131;
+	border-radius: 0px;
+}
+.detailsBlock-FoDTGA, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+	background-color: #2a2b2d;
+}
+.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+	background-color: #262627;
+}
+.theme-dark .root-1gCeng {
+	background-color: #1f1f1f;
+}
+.theme-dark .addGamePopout-2RY8Ju {
+	background-color: #313233;
+}
+.content-1o0f9g {
+	color: #a3abb9;
+	background: none;
+}
+.divider-JfaTT5 {
+	border-top: none;
 }
 .inner-2Y6JuD{
     border-radius:1px;
