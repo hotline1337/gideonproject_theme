@@ -749,8 +749,8 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .emojiItem-14v6tW.emojiItemSelected-1aLkfV {
 	background-color: #28292b;
 }
-.modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX {
-	color: #fff;
+.modeSelected-1zApJ_ .icon-1_QxNX {
+	color: #fff!important;
 }
 .theme-dark .icon-1_QxNX, .theme-light .icon-1_QxNX {
 	color: #505152;
