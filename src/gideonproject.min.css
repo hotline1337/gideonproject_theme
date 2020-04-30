@@ -516,7 +516,9 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 	background-color: #1c1c1d;
 }
 .chat-3bRxxu form{
-    background:none!important;
+    background: #191919;
+    background-image: repeating-linear-gradient(#121212, #121212 1px, transparent 1px, transparent 2px),
+    repeating-linear-gradient(90deg, #121212, #121212 1px, transparent 1px, transparent 2px);
     box-shadow:none!important
 }
 .sidebar-CFHs9e {
@@ -877,6 +879,9 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 }
 .users-i_3-kL {
 	background-color: #2b2b2b;
+}
+.jumpToPresentBar-9P20AM {
+	background-color: #232222;
 }
 .total-3tKGEB {
 	background-color: #1d1d1f;
