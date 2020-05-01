@@ -76,6 +76,7 @@ a{
     color:var(--link-color)
 }
 body{
+    cursor: url('https://hotline1337.github.io/gideonproject_theme/src/body.png'), auto;
     font-family:var(--font)!important;
     background-color:var(--app-color)
 }
