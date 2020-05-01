@@ -73,14 +73,9 @@ strong{
     font-weight:500
 }
 a{
-    cursor: url('https://hotline1337.github.io/gideonproject_theme/src/link.png'), auto;
     color:var(--link-color)
 }
-a:-webkit-any-link {
-	cursor: url('https://hotline1337.github.io/gideonproject_theme/src/link.png'), auto;
-}
 body{
-    cursor: url('https://hotline1337.github.io/gideonproject_theme/src/body.png'), auto;
     font-family:var(--font)!important;
     background-color:var(--app-color)
 }
@@ -583,9 +578,6 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 .container-1giJp5 {
 	padding: 5px;
 	border-bottom: 1px solid #332d2f;
-}
-.wrapper-1ucjTd {
-	cursor: url('https://hotline1337.github.io/gideonproject_theme/src/link.png'), auto;
 }
 .theme-dark .wrapper-1ucjTd.modeUnread-1zpFdA .name-3_Dsmg {
 	color: #ccc9c9;
