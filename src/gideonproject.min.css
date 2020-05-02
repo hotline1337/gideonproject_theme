@@ -599,13 +599,16 @@ img[src="https://cdn.discordapp.com/avatars/506900558347632650/e026b7ce1b9a927c9
 	background-color: #303031;
 	border-color: #040404;
 }
-.lookInverted-2D7oAl.colorBrand-3pXr91, .lookInverted-2D7oAl.colorBrand-3pXr91:hover {
-	color: #fff;
-	background: #191919;
-	 background-image:
-			 repeating-linear-gradient(#121212, #121212 1px, transparent 1px, transparent 2px),
-			 repeating-linear-gradient(90deg, #121212, #121212 1px, transparent 1px, transparent 2px);
+.lookInverted-2D7oAl.colorBrand-3pXr91 {
+	color: var(--text-color)!important;
+        background: linear-gradient(to bottom,#232323 0,#191919 100%)!important;
+	border-radius: 0!important;
+	box-shadow: inset 0 0 0 1px #0a0a0a, inset 0 0 0 2px #323232;
+	font-size: 11px;
+	padding: 5px 15px 5px 15px!important;
 }
+.lookInverted-2D7oAl.colorBrand-3pXr91:hover {
+	
 .theme-dark .codeRedemptionRedirect-1wVR4b {
 	background-color: #2b2c2d;
 }
