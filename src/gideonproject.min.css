@@ -19,7 +19,6 @@
  :root{
      --round: 5px ;	/* Roundness for guilds & borders */
      --borderStyle: 0px 2px ;	/* First number is blur/glow. Second number is thickness/border. */
-     /* Example: 5px 0px  for glow.  0px 2px for border */
      --unread: red ;			/* Unread notification colour */
      --mc: rgba(0, 185, 255, 0.8); /*Main Color*/
      --sc: rgba(0, 185, 255, 0.8); /*Accent Color*/
