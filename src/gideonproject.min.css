@@ -10,7 +10,7 @@
  *                                                                                     *
  *                                  gideonproject.                                     *
  *                       official gideonhack.pw discord theme                          *
- *                                 By Hotline&lyr                                      *
+ *                                 By Hotline & lyr                                    *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
  @import url('https://fonts.googleapis.com/css?family=Raleway');
  @import url(https://qwerasd205.github.io/HLJSrecolor.css);
@@ -206,10 +206,13 @@
     border-radius: 0px;
 }
 .da-mentioned, .da-mentioned:hover{
-    background-color: rgba(239, 9, 95, 0.2)!important;
+    background-color: rgba(239, 9, 95, 0.07)!important;
 }
 .da-mentioned::before{
     background-color: var(--link-color);
+}
+.iconBackgroundTierOne-2LhaMB {
+    color: #3a3c40;
 }
 .group-spacing-16 .groupStart-23k01U{
     margin-top: 0.7rem;
@@ -233,6 +236,12 @@
         font-size: 11px;
         padding: 5px 15px 5px 15px!important;
 }
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active{
+    background: linear-gradient(to top,#232323 0,#191919 100%)!important;
+}
+.navButtonActive-1MkytQ {
+    background-color: #2f3033;
+}
 .colorStandard-2KCXvj {
 	color: #ffffff;
 }
@@ -255,6 +264,12 @@
     font-size: 11px;
     padding: 5px 15px 5px 15px!important;
 }
+.lookOutlined-3sRXeN.colorRed-1TFJan:active {
+    background: linear-gradient(to top,#232323 0,#191919 100%)!important;
+}
+.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
+    background-color: #232425;
+}
 .lookFilled-1Gx00P.colorGreen-29iAKY{
     border: none;
     color: #43b581;
@@ -263,6 +278,9 @@
     box-shadow: inset 0 0 0 1px #0a0a0a, inset 0 0 0 2px #323232;
     font-size: 11px;
     padding: 5px 15px 5px 15px!important;
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY:active{
+    background: linear-gradient(to top,#232323 0,#191919 100%)!important;
 }
  *{
      font-size:100%;
@@ -942,15 +960,6 @@
      font-size: 11px;
      padding: 5px 15px 5px 15px!important;
  }
- .lookOutlined-3sRXeN.colorRed-1TFJan {
-     color: #f04747;
-     background: linear-gradient(to bottom,#232323 0,#191919 100%)!important;
-     border-radius: 0!important;
-     box-shadow: inset 0 0 0 1px #0a0a0a, inset 0 0 0 2px #323232;
-     font-size: 11px;
-     padding: 5px 15px 5px 15px!important;
-     border-color: #1a1a1a;
- }
  .theme-dark .cardPrimary-1Hv-to {
      background: rgba(33, 33, 33, 0.6);
  }
@@ -1112,7 +1121,7 @@
  .ctaBar-2UsjF2, .theme-dark .perk-2WeBWW {
      background-color: #292929;
  }
- .detailsBlock-FoDTGA, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+ .detailsBlock-FoDTGA {
      background-color: #4b4c4e;
  }
  .total-3tKGEB:after {
@@ -1432,7 +1441,7 @@
      background-color: #313131;
      border-radius: 0px;
  }
- .detailsBlock-FoDTGA, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+ .detailsBlock-FoDTGA {
      background-color: #2a2b2d;
  }
  .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
