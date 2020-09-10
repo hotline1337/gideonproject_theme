@@ -1,8 +1,14 @@
-//META{"name":"GideonProject Discord Theme","website":"https://gideonhack.pw/","description":"A theme made for the GideonProject community.","author":"hotline & lyr","authorid":"602091596422316052","source":"https://github.com/hotline1337/","version":"3"}*//{}
+/**
+ * @name gideonproject
+ * @version 1
+ * @description a gideonproject theme for discord.
+ * @website https://gideonhack.pw
+ * @source https://github.com/hotline1337/gideonproject_theme
+ * @authorId 602091596422316052
+ * @author hotline
+**/
 
 @import url(https://hotline1337.github.io/gideonproject_theme/src/gideonproject.min.css);
-
-
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                                                                                     *
