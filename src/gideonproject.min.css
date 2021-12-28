@@ -173,7 +173,7 @@
 }
 
 .messageListItem-1-jvGY {
-  background: #00000024;
+  background: #00000017;
 }
 
 .theme-dark .bar-2Qqk5Z {
@@ -1973,6 +1973,14 @@ svg.colorSelectedVoice-Xcb_9R.icon-sxakjD {
 
 .system-message {
 	font-size: 13px
+}
+
+.expandedFolderBackground-3ZDF05 {
+	background-color: #6a0e3087;
+}
+
+.expandedFolderIconWrapper-3fmTfW {
+	background: #6a0e30bd;
 }
 
 .topSectionNormal-2-vo2m {
