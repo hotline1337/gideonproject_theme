@@ -1710,6 +1710,47 @@ svg.colorSelectedVoice-Xcb_9R.icon-sxakjD {
 	color: var(--primary-color) !important
 }
 
+.lookFilled-22uAsw.select-2fjwPw {
+	background-color: #1d1d1d;
+	border-color: #060606;
+}
+
+.background-1QDuV2, .fieldList-21DyL8 {
+	background-color: #191919;
+}
+
+.contentDefault-16dKSY {
+	color:  #cdcfd2;
+}
+
+.result-oB0z--[aria-selected=true] {
+	background: rgb(60 60 60 / 32%);
+}
+
+.sidebarScrollable-1qPI87+.content-1rPSz4 {
+	margin-left: 252px;
+}
+
+.anchor-3Z-8Bb {
+	margin-left: 9px;
+}
+
+.itemFilled-3llgIC {
+	background-color: #191919;
+}
+
+.itemFilled-3llgIC[aria-checked=true] {
+	background-color: #272727;
+}
+
+.connectionHeader-2MDqhu {
+	background: #1a1a1a;
+}
+
+.connectionOptionsWrapper-3KIj1Z {
+	background: #151515;
+}
+
 .item-3HpYcP:hover {
 	border-radius: 0 !important;
 	background: var(--outline-lightcolor) !important
